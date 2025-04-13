@@ -1,29 +1,66 @@
-# Assignment04-Q3
+# Class_Assignment-4_Q3 Thursday morning class assignments
 
-## Thursday Morning Assignments:
+# Python Assignments - Data Structures and Logic
 
-***Python Assignment***
+This repository contains multiple beginner-to-intermediate level Python assignments designed to help understand key programming concepts including:
 
-####List Methods Practice 
-Assignment Overview: 
-In this assignment, you will practice using different list methods in Python. Lists are a 
-fundamental data structure, and understanding how to manipulate them is essential for 
-Python programming.
+- List and Dictionary methods
+- Conditional statements
+- Loops (for and while)
+- Real-world logic building (discount calculator, student grade manager)
 
-####Dictionary Methods Practice 
-Assignment Overview: 
-In this assignment, you will practice using different dictionary methods in Python. 
-Dictionaries are essential data structures that store key-value pairs and are widely used 
-in Python programming.
+---
 
-####Shopping Discount Calculator 
-Assignment Overview 
-In this assignment, you will create a simple shopping discount calculator that 
-determines discounts based on purchase amount, customer loyalty status, and 
-seasonal promotions. This program will use if statements to make decisions similar to 
-those in real-world retail systems. 
+## 📝 Assignment List
 
-####For Loop Assignment - Number Patterns 
-Assignment Overview: 
-In this assignment, you will create number patterns using for loops in Python.
-[Assignment 04](https://colab.research.google.com/drive/1fIlvIwgJW-YO35slr6lyjBs-k8KQ2x_V?usp=sharing)
+### ✅ 1. List Methods Practice
+Practice common list operations such as adding, inserting, removing elements, copying, slicing, and sorting.
+
+### ✅ 2. Dictionary Methods Practice
+Work with dictionary creation, modification, key-value operations, and combining dictionaries.
+
+### ✅ 3. Shopping Discount Calculator
+Simulate a real-world discount system based on purchase value, loyalty status, weekends, and holidays using if-statements.
+
+### ✅ 4. For Loop Number Patterns
+Use for loops to print counting numbers and a multiplication table.
+
+### ✅ 5. While Loop Interactive Game
+Create a simple number guessing game using a while loop and input logic.
+
+### ✅ 6. Student Grade Management System
+Manage a list of students where each student has multiple course grades. Perform operations such as:
+- Adding students
+- Calculating averages
+- Finding toppers
+- Filtering high performers
+- Course-wise average
+
+---
+
+## 📂 Technologies Used
+
+- Python 3
+- Google Colab (for interactive execution)
+- Standard libraries only
+
+---
+
+## 📎 Google Colab Link
+
+👉 [Open in Colab](https://colab.research.google.com/drive/1fIlvIwgJW-YO35slr6lyjBs-k8KQ2x_V?usp=sharing) 
+
+---
+
+## 📸 Preview
+
+Here’s a snapshot of the Student Grade Management logic in action:
+```python
+# Example Output:
+Student Name:  Naimal
+web-developement:90
+AI:78
+Machine-Learning:80
+
+Top Student:
+Name: Naimal, ID: 310, Average Grade: 83.33
